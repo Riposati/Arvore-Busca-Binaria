@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1484365540 source:c:\users\gustavo\desktop\algoritmos\arvore_avl\corpo_funcoes.cpp
+	<bits/stdc++.h>
+
+1484365526 source:c:\users\gustavo\desktop\algoritmos\arvore_avl\main.cpp
+	<bits/stdc++.h>
+	"headers/cabecalhos.h"
+
+1484365329 c:\users\gustavo\desktop\algoritmos\arvore_avl\headers\cabecalhos.h
+
